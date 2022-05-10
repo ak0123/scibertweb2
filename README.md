@@ -1,6 +1,17 @@
 # scibertweb2
-# forked from Issac MG's SciBERT Embeddings Analysis https://www.kaggle.com/isaacmg/scibert-embeddings
+
+# Project Objective:
+# The goal of this project is to help people on the front-line fighting COVID-19 find the most relevant research papers to better understand key pain-points and apply these findings into their plans and operations in addressing the pandemic.
+
+# The main issue is that more papers are published than there are qualified people to refind and leverage the knowledge.
+
+# This project can help to simplify the search process and bring the most relevant search results to eye-level for doctors, virologists, and other contributors mitigating the pandemic.
+
+# This project was forked from Issac MG's SciBERT Embeddings Analysis https://www.kaggle.com/isaacmg/scibert-embeddings
 # important you follow setup instructions in link above before proceeding
+
+# Here are the lessons learned from this project:
+https://cosmosinyou.medium.com/lessons-learned-from-deploying-a-pretrained-bert-model-as-a-web-site-88a9d967c751
 
 #.. as well as Tutorial: Deploying a machine learning model to the web https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
 
